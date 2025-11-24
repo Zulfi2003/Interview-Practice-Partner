@@ -122,7 +122,7 @@ Then open the URL shown in the terminal (usually `http://localhost:8501`).
 
 ## 🧩 How to Use
 
-1. **Open the app** in the browser.
+1. **Open the app** in the **Chrome** browser.
 2. **On the homepage:**
    - Select interview type (Technical / HR / etc.).
    - Choose the role (e.g., Software Engineer, Data Analyst, Marketing).
