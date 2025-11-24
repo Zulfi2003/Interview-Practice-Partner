@@ -1,0 +1,16 @@
+langchain
+PyPDF2
+openai
+streamlit>=1.32.0
+tiktoken
+nltk
+audio_recorder_streamlit
+streamlit-option-menu
+streamlit-lottie
+faiss-cpu
+gTTS
+Ipython
+sentence-transformers
+langchain-community
+langchain-openai
+SpeechRecognition

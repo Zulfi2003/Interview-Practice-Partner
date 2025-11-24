@@ -1,0 +1,21 @@
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Temp/runtime files
+temp/
+*.wav
+*.mp3
+
+# Python cache
+__pycache__/
+*.pyc
+
+# FAISS / Embeddings
+*.faiss
+*.pkl
+
+# NLTK
+nltk_data/
+
+# macOS
+.DS_Store
